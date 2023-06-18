@@ -20,11 +20,11 @@
   }
   
   main {
-    background: url(images/background.svg);
+    background: url(BackSquare2.png);
     width: 375px;
     height: 812px;
   }
-  
+
   .container {
     max-width: 250px;
     margin-left: auto;
