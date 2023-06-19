@@ -29,4 +29,3 @@ $ git status
 $ git push
 ```
 
-Deploy da aplicação -->
